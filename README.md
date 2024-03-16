@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Unnati Sabu</h1>
 <h3 align="center">A learning enthusiast building skills like Java, C and Web Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unnatisabu&label=Profile%20views&color=0e75b6&style=flat" alt="unnatisabu" /> </p>
+- 📝 I’m currently learning **Electronics and Telecommunication Enginnering**
 
-- 🌱 I’m currently learning **Electronics and Telecommunication Enginnering**
-
-- 📫 How to reach me **unnatisabu15@gmail.com**
+- 📫 You can reach me via **unnatisabu15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
